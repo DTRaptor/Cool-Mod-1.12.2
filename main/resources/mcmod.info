@@ -1,0 +1,16 @@
+[
+{
+  "modid": "coolmod",
+  "name": "Cool Mod",
+  "description": "It is a cool mod. What else do I have to say?",
+  "version": "1.0.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DTRaptor"],
+  "credits": "Forge",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
